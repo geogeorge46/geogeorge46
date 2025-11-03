@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6610f2&height=200&section=header&text=Hi%20👋,%20I'm%20Geo%20George!&fontSize=35&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,100:4364F7&height=220&section=header&text=Geo%20George%20💻%20|%20Software%20Developer%20&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Passionate%20about%20Software%20Engineering%20%7C%20AI%20%7C%20Cloud%20Tech&descAlignY=55&descAlign=50&animation=fadeIn" />
 </p>
+
 
 <h3 align="center">💻 MCA Integrated Student | Software Developer | Open Source Contributor</h3>
 
