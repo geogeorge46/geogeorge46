@@ -56,7 +56,7 @@
 - 🚀 **Participant** – *Google Solution Challenge, Smart India Hackathon, I2U*  
   Worked on AI-based and institutional tech innovation projects.
 
-  - 🧩 **Open Source Contributor** – *µLearn Hacktoberfest (techmyrmidons)*  
+- 🧩 **Open Source Contributor** – *µLearn Hacktoberfest (techmyrmidons)*  
   Enhanced repositories and documentation using Git & GitHub.
 
 - 🧪 **User Acceptance Tester** – *Sevana Mobility Solutions Pvt. Ltd.*  
