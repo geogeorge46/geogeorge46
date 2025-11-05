@@ -3,13 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Hi%20👋,%20I'm%20Geo%20George!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Innovative%20%7C%20Tech%20Driven%20%7C%20Open%20Source%20Contributor&descAlignY=55&descAlign=50" />
 </p>
 
-
-
 <h3 align="center">💻 MCA Integrated Student | Software Developer | Open Source Contributor</h3>
 
 <p align="center">
   <em>Passionate about Software Engineering, AI/ML, and Cloud Computing 🚀<br>
   Building creative and scalable solutions through teamwork and innovation 🌱</em>
+</p>
+
+<p align="center">
+  🌐 <strong>Check out my Portfolio:</strong><br>
+  <a href="https://geogeorge46.github.io/portfolio/" target="_blank">https://geogeorge46.github.io/portfolio/</a>
 </p>
 
 ---
@@ -83,6 +86,7 @@
   <a href="mailto:geogeorge24680@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/geo-george-883616276"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/GeoGeorge"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://geogeorge46.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
