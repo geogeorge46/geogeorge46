@@ -1,5 +1,3 @@
-
-
 <!-- ========================================================= -->
 <!--        🔵 V3 — GEO GEORGE (Blue + Black — Ultra Edition)  -->
 <!-- ========================================================= -->
@@ -24,12 +22,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=700&color=00C8FF&center=true&vCenter=true&width=740&lines=Building+Futuristic+Apps+⚡;Designing+Neon+UI+Experiences+💠;AI%2C+Cloud%2C+Full-Stack+Developer" />
 </p>
 
-<!-- ======= Glowing Avatar Frame ======= -->
+<!-- ========== HOLOGRAM PLASMA CORE (Animated blob) ========== -->
 <p align="center">
-  <img src="/mnt/data/70e6eff0-f639-4afc-bcde-f420e7ff6f3c.png"
-       alt="Geo George"
-       width="180"
-       style="border-radius:50%; box-shadow: 0 0 24px #00aaff, 0 0 40px rgba(0,170,255,0.12); border: 4px solid rgba(0,170,255,0.12);" />
+  <img src="https://raw.githubusercontent.com/berru-g/hologram-blob/main/blue-plasma.gif"
+       width="240"
+       style="filter: drop-shadow(0 0 35px #00caff); margin-top: -20px;">
 </p>
 
 ---
