@@ -1,4 +1,4 @@
-<!-- ========================================================= -->
+<img width="1257" height="590" alt="image" src="https://github.com/user-attachments/assets/fe3013f5-6ed1-4189-9454-5e8299097674" /><!-- ========================================================= -->
 <!--        🔵 V8 — GEO GEORGE (Blue + Black — Hologram Mode)  -->
 <!-- ========================================================= -->
 
@@ -12,7 +12,7 @@
 
 <!-- ========== HOLOGRAM PLASMA CORE (Your Image) ========== -->
 <p align="center">
-  <img src="/mnt/data/70e6eff0-f639-4afc-bcde-f420e7ff6f3c.png"
+  <img src="https://github.com/geogeorge46/geogeorge46/blob/main/image.png"
        width="240"
        style="filter: drop-shadow(0 0 35px #00caff); margin-top: -40px; border-radius: 50%;">
 </p>
