@@ -91,7 +91,9 @@ I'm <strong>Geo George</strong> — a developer crafting neon UI experiences, sc
   <a href="https://github.com/geogeorge46"><img src="https://skillicons.dev/icons?i=github" height="36"></a>
   <a href="https://www.linkedin.com/in/geo-george-883616276"><img src="https://skillicons.dev/icons?i=linkedin" height="36"></a>
   <a href="mailto:geogeorge24680@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"></a>
+  <a href="https://www.instagram.com/g_eo.g_eorge/"><img src="https://skillicons.dev/icons?i=instagram" height="36"></a>
 </p>
+
 
 ---
 
