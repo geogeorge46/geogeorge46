@@ -1,38 +1,14 @@
-<!-- ========================================================= -->
-<!--      🔵 V8 — GEO GEORGE (HOLOGRAM NEON — STACKED SET)    -->
-<!-- ========================================================= -->
 
-<!-- ========== V8-A: Quantum Blue Ring ========== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=ring&height=260&color=0:000000,50:003355,100:00aaff&text=GEO%20GEORGE&fontSize=42&fontColor=00e5ff&animation=fadeIn&stroke=00aaff&strokeWidth=2" width="100%" />
-</p>
-
-<!-- ========== V8-B: Laser Grid Wave ========== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:000000,40:001a33,70:004477,100:00aaff&section=header&text=HOLOGRAM%20NEON%20MODE&fontColor=00dfff&fontSize=28&animation=twinkling" width="100%" />
-</p>
-
-<!-- ========== V8-C: Plasma Beam Line ========== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:000000,40:002244,80:0066aa,100:00ccff&fontColor=00eaff&text=PLASMA%20BLUE%20ENERGY&fontSize=30&animation=fadeIn" width="100%" />
-</p>
-
-<!-- ========== V8-D: Hologram Core (Blue Pulse) ========== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=190&color=00aaff&text=HOLOGRAPHIC%20CORE%20V8&fontColor=00e5ff&fontSize=32&animation=blink" width="100%" />
-</p>
-
----
 
 <!-- ========================================================= -->
 <!--        🔵 V3 — GEO GEORGE (Blue + Black — Ultra Edition)  -->
 <!-- ========================================================= -->
 
-<!-- ========= TOP: Triple-layer Animated Neon Waves (Blue only) ========= -->
+<!-- ========== V8-B: Laser Grid Wave (with your text) ========== -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:00111a,60:003355,100:00aaff&section=header&text=Hi%20👋,%20I'm%20Geo%20George!&fontSize=44&fontColor=00e1ff&animation=fadeIn&fontAlignY=36&desc=Developer%20|%20AI%20%2F%20Cloud%20%2F%20Full-Stack&descSize=16&descAlignY=62"
-    width="100%"
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:000000,40:001a33,70:004477,100:00aaff&section=header&text=Hi%20👋,%20I'm%20Geo%20George!&fontColor=00dfff&fontSize=40&animation=twinkling&desc=Developer%20%7C%20AI%20%2F%20Cloud%20%2F%20Full-Stack&descSize=18&descAlignY=70" 
+    width="100%" 
   />
 </p>
 
