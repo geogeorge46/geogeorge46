@@ -85,21 +85,6 @@ I'm <strong>Geo George</strong> — a developer crafting neon UI experiences, sc
 
 ---
 
-## ✨ Live-Style Neon Trophies & Badges
-<p align="center">
-  <!-- GitHub Trophies -->
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=geogeorge46&theme=onedark&no-frame=true&column=3)
-  <br><br>
-  <!-- Holopin Badge -->
-  ![Holopin Badge](https://www.holopin.io/userbadge/cmhrtz6uq004tlb04njb3tg18/badge.png)
-</p>
-
----
-
-## 🔷 Animated RGB-Like Border
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=border&height=8&color=0:000000,50:001a33,100:00aaff&animation=twinkling" width="100%" />
-</p>
 
 ## 🌐 Connect
 <p align="center">
