@@ -10,21 +10,28 @@
   />
 </p>
 
-<!-- ========== HOLOGRAM PLASMA CORE (Your Image) ========== -->
+<!-- ========== HOLOGRAM PLASMA CORE (Your Profile Image) ========== -->
 <p align="center">
   <img src="https://github.com/geogeorge46/geogeorge46/blob/main/image.png"
        width="240"
        style="filter: drop-shadow(0 0 35px #00caff); margin-top: -40px; border-radius: 50%;">
 </p>
 
-<!-- ======= Electric Lightning SVG (Blue glow) ======= -->
+<!-- ========== DUAL PLASMA DIVIDER (Replaces Lightning) ========== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaeheonshim/jaeheonshim/main/lightning-blue.svg"
-       width="80%"
-       style="filter: drop-shadow(0 0 16px #00aaff);">
+  <img 
+    src="https://raw.githubusercontent.com/berru-g/hologram-blob/main/blue-plasma.gif"
+    width="200"
+    style="filter: drop-shadow(0 0 32px #00caff); margin: 0 20px;"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/berru-g/hologram-blob/main/blue-plasma.gif"
+    width="200"
+    style="filter: drop-shadow(0 0 32px #00caff); margin: 0 20px;"
+  />
 </p>
 
-<!-- ======= Scrolling Neon Typing (Blue) ======= -->
+<!-- ======= Scrolling Neon Typing ======= -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=700&color=00C8FF&center=true&vCenter=true&width=740&lines=Building+Futuristic+Apps+⚡;Designing+Neon+UI+Experiences+💠;AI%2C+Cloud%2C+Full-Stack+Developer" />
 </p>
