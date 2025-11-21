@@ -39,7 +39,7 @@
 ---
 
 <!-- ========================================================= -->
-<!--  💫 HOLOGRAM ABOUT ME                                     -->
+<!--  💫 HOLOGRAM ABOUT ME  (enhanced)                         -->
 <!-- ========================================================= -->
 <p align="center">
   <img 
@@ -49,11 +49,16 @@
 </p>
 
 <p align="center">
-I’m <strong>Geo George</strong> — forging neon-soaked interfaces & bullet-proof backends.<br>
-AI-driven, cloud-native, full-stack — always chasing the next electric pixel.
+  Passionate about crafting <strong>efficient, scalable</strong> software with modern web tech, robust databases, and open-source collaboration.<br>
+  Integrated MCA student at <strong>Amal Jyothi College of Engineering</strong> — forever learning, building, innovating.<br><br>
+
+  💡 &nbsp; <strong>Focus:</strong> Full-Stack • AI / ML • Cloud & DevOps<br>
+  🌐 &nbsp; <strong>Communities:</strong> µLearn | Hacktoberfest | Google Solution Challenge | SIH | I2U<br>
+  🧠 &nbsp; <strong>Stack in progress:</strong> React, Node.js, Python, Next.js, Tailwind, Firebase, AWS<br>
+  💬 &nbsp; <strong>Ask me about:</strong> Web Dev, Git/GitHub, Open-Source best practices<br>
+  ⚡ &nbsp; <strong>Fun fact:</strong> I light up pixels & communities at the same time — neon vibes only.<br>
 </p>
 
----
 <!-- ========================================================= -->
 <!--  🛠 HOLOGRAM TECH STACK  (upgraded glow)                 -->
 <!-- ========================================================= -->
@@ -79,7 +84,7 @@ AI-driven, cloud-native, full-stack — always chasing the next electric pixel.
 <!-- ========================================================= -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,40:001a33,70:004477,100:00aaff&section=header&text=🌙%20Cyber-Neon%20GitHub%20Stats&fontColor=00dfff&fontSize=28&animation=twinkling&desc=Metrics%20from%20the%20grid&descSize=16&descAlignY=75" 
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,40:001a33,70:004477,100:00aaff&section=header&text=🌙%20GitHub%20Stats&fontColor=00dfff&fontSize=28&animation=twinkling&desc=Metrics%20from%20the%20grid&descSize=16&descAlignY=75" 
     width="100%" 
   />
 </p>
@@ -96,25 +101,80 @@ AI-driven, cloud-native, full-stack — always chasing the next electric pixel.
 
 ---
 <!-- ========================================================= -->
-<!--  🚀 HOLOGRAM FEATURED PROJECTS + PORTFOLIO                -->
+<!--  🚀 HOLOGRAM PROJECTS  (all new)                         -->
 <!-- ========================================================= -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,40:001a33,70:004477,100:00aaff&section=footer&text=🚀%20Featured%20Projects&fontColor=00dfff&fontSize=28&animation=twinkling&desc=Electric%20builds%20that%20light%20up%20the%20dark&descSize=16&descAlignY=75" 
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,40:001a33,70:004477,100:00aaff&section=header&text=🚀%20Projects&fontColor=00dfff&fontSize=28&animation=twinkling&desc=Shipped%20code%20%7C%20Open%20source%20%7C%20Hackathons&descSize=16&descAlignY=75" 
     width="100%" 
   />
 </p>
 
-<p align="center">
-  <strong>Smart Energy Tracker</strong> — AI-driven electricity insights<br>
-  <strong>Neon Portfolio (Next.js)</strong> — animated blue-neon UI<br>
-  <strong>Multi-Model AI Agent</strong> — orchestrates multiple LLMs<br><br>
+<div align="center">
 
-  <!-- 🔗 MAIN PORTFOLIO LINK -->
-  <a href="https://geogeorge.dev">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-00caff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
-  </a>
-</p>
+  <!-- ─── 1  Gearequip ─── -->
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geogeorge46&repo=gearequip&theme=tokyonight&bg_color=000000&title_color=00e5ff&text_color=00aaff&icon_color=00caff&hide_border=true&show_owner=true" 
+         alt="Gearequip" />
+  </picture>  
+  <br>
+  Machinery-rental platform — internship @ VaultofCodes.  
+  Core rental flows + DB design.  
+  **Stack:** Python • PHP • MySQL • JS  
+  <a href="https://github.com/geogeorge46/gearequip"><img src="https://img.shields.io/badge/View%20Code-00caff?style=flat-square&logo=github&logoColor=white&labelColor=000000" /></a>
+  <a href="https://gearequip-demo.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00caff?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" /></a>
+
+  <!-- ─── 2  Google Solution Challenge ─── -->
+  <br><br>
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,100:001a33&section=header&text=Google%20Solution%20Challenge&fontColor=00dfff&fontSize=22&animation=twinkling" width="420"/>
+  </picture>  
+  <br>
+  AI-powered innovation project — led the team.  
+  **Stack:** AI • Python • Cloud  
+  <a href="#"><img src="https://img.shields.io/badge/Details-00caff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=000000" /></a>
+
+  <!-- ─── 3  Smart India Hackathon 2025 ─── -->
+  <br><br>
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,100:001a33&section=header&text=Smart%20India%20Hackathon%202025&fontColor=00dfff&fontSize=22&animation=twinkling" width="420"/>
+  </picture>  
+  <br>
+  Institution prototype — systems integration + live demo.  
+  **Stack:** IoT • Web • Python  
+  <a href="#"><img src="https://img.shields.io/badge/Details-00caff?style=flat-square&logo=hackathon&logoColor=white&labelColor=000000" /></a>
+
+  <!-- ─── 4  I2U Innovation Project ─── -->
+  <br><br>
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,100:001a33&section=header&text=I2U%20Innovation%20Project&fontColor=00dfff&fontSize=22&animation=twinkling" width="420"/>
+  </picture>  
+  <br>
+  Campus platform connecting students & mentors.  
+  **Stack:** React • Node.js  
+  <a href="#"><img src="https://img.shields.io/badge/Details-00caff?style=flat-square&logo=react&logoColor=white&labelColor=000000" /></a>
+
+  <!-- ─── 5  WikiSyllabus Challenge ─── -->
+  <br><br>
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,100:001a33&section=header&text=WikiSyllabus%20Challenge&fontColor=00dfff&fontSize=22&animation=twinkling" width="420"/>
+  </picture>  
+  <br>
+  Open-source contribution to µLearn — syllabus sync + search.  
+  **Stack:** Open Source • GitHub  
+  <a href="https://github.com/µLearn-org/WikiSyllabus"><img src="https://img.shields.io/badge/Repo-00caff?style=flat-square&logo=github&logoColor=white&labelColor=000000" /></a>
+
+  <!-- ─── 6  Techmyrmidons Challenge ─── -->
+  <br><br>
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,100:001a33&section=header&text=Techmyrmidons%20Challenge&fontColor=00dfff&fontSize=22&animation=twinkling" width="420"/>
+  </picture>  
+  <br>
+  Another µLearn open-source sprint — syllabus improvements.  
+  **Stack:** Open Source • GitHub  
+  <a href="https://github.com/µLearn-org/Techmyrmidons"><img src="https://img.shields.io/badge/Repo-00caff?style=flat-square&logo=github&logoColor=white&labelColor=000000" /></a>
+
+</div>
 ---
 
 <!-- ========================================================= -->
