@@ -17,7 +17,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 Integrated MCA student at **Amal Jyothi College of Engineering**
 - 💡 Interested in **Full-Stack Development**, **AI**, **Machine Learning**, and **Cloud Technologies**
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -48,44 +48,81 @@
 
 ---
 
-### 🧩 Projects & Experience
+## 🧩 Projects & Experience
 
-- 💼 **Web Development Intern** – *VaultofCodes.in*  
-  Built responsive web pages, optimized performance, and created **Gearequip**, a machinery rental platform.
+- 💼 **Web Development Intern — VaultofCodes.in**  
+  Built responsive web pages and created **Gearequip**, a machinery rental platform.
 
-- 🧩 **Open Source Contributor** – *µLearn Hacktoberfest (WikiSyllabus Challenge)*  
-  Enhanced repositories and documentation using Git & GitHub.
+- 🧩 **Open Source Contributor — µLearn Hacktoberfest (WikiSyllabus / techmyrmidons)**  
+  Contributed to documentation, fixes, and improvements.
 
-- 🚀 **Participant** – *Google Solution Challenge, Smart India Hackathon, I2U*  
-  Worked on AI-based and institutional tech innovation projects.
+- 🚀 **Participant — Google Solution Challenge, Smart India Hackathon, I2U**  
+  Worked on AI-based and institutional innovation projects.
 
-- 🧩 **Open Source Contributor** – *µLearn Hacktoberfest (techmyrmidons)*  
-  Enhanced repositories and documentation using Git & GitHub.
-
-- 🧪 **User Acceptance Tester** – *Sevana Mobility Solutions Pvt. Ltd.*  
-  Conducted testing, analysis, and feedback reporting during UAT.
+- 🧪 **User Acceptance Tester — Sevana Mobility Solutions Pvt. Ltd.**  
+  Performed UAT, system checks, and feedback reporting.
 
 ---
 
-### 📊 GitHub Analytics
+## 📌 GitHub Overview Metrics (Auto-Fetch)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GeoGeorge&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GeoGeorge&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeoGeorge&theme=tokyo-night" />
+  <img src="https://img.shields.io/github/followers/geogeorge46?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/stars/geogeorge46?affiliations=OWNER&style=for-the-badge&logo=star&color=brightgreen" />
+  <img src="https://img.shields.io/badge/Public%20Repos-$(curl -s https://api.github.com/users/geogeorge46 | jq '.public_repos')-blue?style=for-the-badge&logo=github" />
+
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 📊 Contribution Stats
+
+<p align="center">
+
+  <!-- Commit Stats (GitHub Readme Stats) -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=geogeorge46&show_icons=true&theme=tokyonight&count_private=true" />
+
+  <!-- Streak Stats -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorge46&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🚀 GitHub Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geogeorge46&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geogeorge46&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geogeorge46&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geogeorge46&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=geogeorge46&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geogeorge46&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:geogeorge24680@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/geo-george-883616276"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/GeoGeorge"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/geogeorge46"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://geogeorge46.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
