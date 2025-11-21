@@ -8,6 +8,21 @@
        width="100%"/>
 </p>
 
+<!-- ========== HOLOGRAM PLASMA CORE (Animated blob) ========== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/berru-g/hologram-blob/main/blue-plasma.gif"
+       width="240"
+       style="filter: drop-shadow(0 0 35px #00caff); margin-top: -40px;">
+</p>
+
+<!-- ========== AVATAR (Blue neon ring) ========== -->
+<p align="center">
+  <img src="/mnt/data/70e6eff0-f639-4afc-bcde-f420e7ff6f3c.png"
+       width="170"
+       style="border-radius: 50%; border: 4px solid #003d55; box-shadow: 0 0 30px #00aaff, 0 0 55px #00c8ff;">
+</p>
+
+---
 
 ## 💫 About Me
 <p align="center">
