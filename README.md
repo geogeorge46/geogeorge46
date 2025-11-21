@@ -1,4 +1,4 @@
-<img width="1257" height="590" alt="image" src="https://github.com/user-attachments/assets/fe3013f5-6ed1-4189-9454-5e8299097674" /><!-- ========================================================= -->
+<!-- ========================================================= -->
 <!--        🔵 V8 — GEO GEORGE (Blue + Black — Hologram Mode)  -->
 <!-- ========================================================= -->
 
@@ -34,7 +34,7 @@
 ## 💫 About Me
 <p align="center">
 I'm <strong>Geo George</strong> — a developer crafting neon UI experiences, scalable backend systems, and AI/Cloud solutions.  
-Focused on <em>design-driven engineering</em> and polished developer experiences.
+<br>Focused on <em>design-driven engineering</em> and polished developer experiences.
 </p>
 
 ---
@@ -56,26 +56,31 @@ Focused on <em>design-driven engineering</em> and polished developer experiences
 
 ## 🌙 Cyber-Neon GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geogeorge46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&text_color=00aaff&title_color=00e5ff&icon_color=00aaff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorge46&theme=tokyonight&hide_border=true&ring=00aaff&currStreakLabel=00e5ff&fire=00d4ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=geogeorge46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&text_color=00aaff&title_color=00e5ff&icon_color=00aaff" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geogeorge46&layout=compact&theme=tokyonight&hide_border=true&text_color=00aaff&title_color=00e5ff&bg_color=000000" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorge46&theme=tokyonight&hide_border=true&ring=00aaff&currStreakLabel=00e5ff&fire=00d4ff" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geogeorge46&layout=compact&theme=tokyonight&hide_border=true&text_color=00aaff&title_color=00e5ff&bg_color=000000" width="70%" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-- **Smart Energy Tracker** — AI-driven electricity insights  
-- **Neon Portfolio (Next.js)** — animated blue-neon UI  
-- **Multi-Model AI Agent** — orchestrates multiple LLMs  
+<p align="center">
+<strong>Smart Energy Tracker</strong> — AI-driven electricity insights  
+<br><strong>Neon Portfolio (Next.js)</strong> — animated blue-neon UI  
+<br><strong>Multi-Model AI Agent</strong> — orchestrates multiple LLMs  
+</p>
 
 ---
 
 ## ✨ Live-Style Neon Trophies & Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geogeorge46&theme=onedark&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=geogeorge46&theme=onedark&no-frame=true&column=3" />
 </p>
 
 ---
