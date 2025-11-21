@@ -1,47 +1,109 @@
+
+<!-- ========================================================= -->
+<!--        🔵 V8 — GEO GEORGE (Blue + Black — Hologram Mode)  -->
+<!-- ========================================================= -->
+
+<!-- ========== V8-B: Laser Grid Wave (Header) ========== -->
 <p align="center">
-  # Hi 👋, I'm Geo George!
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:000000,40:001a33,70:004477,100:00aaff&section=header&text=Hi%20👋,%20I'm%20Geo%20George!&fontColor=00dfff&fontSize=40&animation=twinkling&desc=Developer%20%7C%20AI%20%2F%20Cloud%20%2F%20Full-Stack&descSize=18&descAlignY=70" 
+    width="100%" 
+  />
+</p>
+
+<!-- ========== HOLOGRAM PLASMA CORE (Your Profile Image) ========== -->
+<p align="center">
+  <img src="https://github.com/geogeorge46/geogeorge46/blob/main/image.png"
+       width="240"
+       style="filter: drop-shadow(0 0 35px #00caff); margin-top: -40px; border-radius: 50%;">
+</p>
+
+<!-- ========== DUAL PLASMA DIVIDER (Replaces Lightning) ========== -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/berru-g/hologram-blob/main/blue-plasma.gif"
+    width="200"
+    style="filter: drop-shadow(0 0 32px #00caff); margin: 0 20px;"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/berru-g/hologram-blob/main/blue-plasma.gif"
+    width="200"
+    style="filter: drop-shadow(0 0 32px #00caff); margin: 0 20px;"
+  />
+</p>
+
+<!-- ======= Scrolling Neon Typing ======= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=700&color=00C8FF&center=true&vCenter=true&width=740&lines=Building+Futuristic+Apps+⚡;Designing+Neon+UI+Experiences+💠;AI%2C+Cloud%2C+Full-Stack+Developer" />
 </p>
 
 ---
 
 ## 💫 About Me
-
-I'm **Geo George** — a developer crafting neon UI experiences, scalable backend systems, and AI/Cloud solutions.
-Focused on *design-driven engineering* and polished developer experiences.
+<p align="center">
+I'm <strong>Geo George</strong> — a developer crafting neon UI experiences, scalable backend systems, and AI/Cloud solutions.  
+<br>Focused on <em>design-driven engineering</em> and polished developer experiences.
+</p>
 
 ---
 
 ## 🛠 Tech Stack
-
-JavaScript, Python, Java, C, C++, HTML, CSS, React, Node.js, Express, Tailwind, Firebase, GitHub, Vercel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,java,c,cpp,html,css,react,nodejs,express,tailwind,firebase,github,vercel" />
+</p>
 
 ---
 
-## 🌌 GitHub Stats
+## 🌌 Animated Particle Strip
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:00111a,100:00aaff&text=•%20•%20•%20%20•%20%20•%20%20•%20%20•&fontSize=18&fontColor=00cfff&animation=twinkling"
+       width="100%" />
+</p>
+
+---
+
+## 🌙 Cyber-Neon GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geogeorge46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&text_color=00aaff&title_color=00e5ff&icon_color=00aaff" width="90%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geogeorge46&show_icons=true&theme=tokyonight" width="90%" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorge46&theme=tokyonight" width="90%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geogeorge46&layout=compact&theme=tokyonight" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorge46&theme=tokyonight&hide_border=true&ring=00aaff&currStreakLabel=00e5ff&fire=00d4ff" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geogeorge46&layout=compact&theme=tokyonight&hide_border=true&text_color=00aaff&title_color=00e5ff&bg_color=000000" width="70%" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-
-* **Smart Energy Tracker** — AI-driven electricity insights
-* **Neon Portfolio (Next.js)** — animated blue-neon UI
-* **Multi-Model AI Agent** — orchestrates multiple LLMs
+<p align="center">
+<strong>Smart Energy Tracker</strong> — AI-driven electricity insights  
+<br><strong>Neon Portfolio (Next.js)</strong> — animated blue-neon UI  
+<br><strong>Multi-Model AI Agent</strong> — orchestrates multiple LLMs  
+</p>
 
 ---
+
 
 ## 🌐 Connect
+<p align="center">
+  <a href="https://github.com/geogeorge46"><img src="https://skillicons.dev/icons?i=github" height="36"></a>
+  <a href="https://www.linkedin.com/in/geo-george-883616276"><img src="https://skillicons.dev/icons?i=linkedin" height="36"></a>
+  <a href="mailto:geogeorge24680@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"></a>
+  <a href="https://www.instagram.com/g_eo.g_eorge/"><img src="https://skillicons.dev/icons?i=instagram" height="36"></a>
+</p>
 
-[GitHub](https://github.com/geogeorge46) | [LinkedIn](https://www.linkedin.com/in/geo-george-883616276) | [Gmail](mailto:geogeorge24680@gmail.com) | [Instagram](https://www.instagram.com/g_eo.g_eorge/)
 
 ---
 
-**Thanks for visiting!**
-✨ Keep building, keep learning ✨
+<!-- ========== MATCHED FOOTER ========== -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:000000,40:001a33,70:004477,100:00aaff&section=footer&text=Thanks+for+visiting!&fontColor=00dfff&fontSize=32&animation=twinkling" 
+    width="100%" 
+  />
+</p>
+
+
