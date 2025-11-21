@@ -1,13 +1,20 @@
 <!-- ========================================================= -->
-<!--        🔵 V3 — GEO GEORGE (Blue + Black — Ultra Edition)  -->
+<!--        🔵 V8 — GEO GEORGE (Blue + Black — Hologram Mode)  -->
 <!-- ========================================================= -->
 
-<!-- ========== V8-B: Laser Grid Wave (with your text) ========== -->
+<!-- ========== V8-B: Laser Grid Wave (Header) ========== -->
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:000000,40:001a33,70:004477,100:00aaff&section=header&text=Hi%20👋,%20I'm%20Geo%20George!&fontColor=00dfff&fontSize=40&animation=twinkling&desc=Developer%20%7C%20AI%20%2F%20Cloud%20%2F%20Full-Stack&descSize=18&descAlignY=70" 
     width="100%" 
   />
+</p>
+
+<!-- ========== HOLOGRAM PLASMA CORE (Your Image) ========== -->
+<p align="center">
+  <img src="/mnt/data/70e6eff0-f639-4afc-bcde-f420e7ff6f3c.png"
+       width="240"
+       style="filter: drop-shadow(0 0 35px #00caff); margin-top: -40px; border-radius: 50%;">
 </p>
 
 <!-- ======= Electric Lightning SVG (Blue glow) ======= -->
@@ -20,13 +27,6 @@
 <!-- ======= Scrolling Neon Typing (Blue) ======= -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=700&color=00C8FF&center=true&vCenter=true&width=740&lines=Building+Futuristic+Apps+⚡;Designing+Neon+UI+Experiences+💠;AI%2C+Cloud%2C+Full-Stack+Developer" />
-</p>
-
-<!-- ========== HOLOGRAM PLASMA CORE (Animated blob) ========== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/berru-g/hologram-blob/main/blue-plasma.gif"
-       width="240"
-       style="filter: drop-shadow(0 0 35px #00caff); margin-top: -20px;">
 </p>
 
 ---
