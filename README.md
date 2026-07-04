@@ -1,206 +1,355 @@
-<!-- ========================================================= -->
-<!--        🔵 V8 — GEO GEORGE (Blue + Black — Hologram Mode)  -->
-<!-- ========================================================= -->
-
-<!-- ========== V8-B: Laser Grid Wave (Header) ========== -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:000000,40:001a33,70:004477,100:00aaff&section=header&text=Hi%20👋,%20I'm%20Geo%20George!&fontColor=00dfff&fontSize=40&animation=twinkling&desc=Developer%20%7C%20AI%20%2F%20Cloud%20%2F%20Full-Stack&descSize=18&descAlignY=70" 
-    width="100%" 
-  />
-</p>
-
-<!-- ========== HOLOGRAM PLASMA CORE (Your Profile Image) ========== -->
-<p align="center">
-  <img src="https://github.com/geogeorge46/geogeorge46/blob/main/image.png"
-       width="240"
-       style="filter: drop-shadow(0 0 35px #00caff); margin-top: -40px; border-radius: 50%;">
-</p>
-
-<!-- ========== DUAL PLASMA DIVIDER (Replaces Lightning) ========== -->
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/berru-g/hologram-blob/main/blue-plasma.gif"
-    width="200"
-    style="filter: drop-shadow(0 0 32px #00caff); margin: 0 20px;"
-  />
-  <img 
-    src="https://raw.githubusercontent.com/berru-g/hologram-blob/main/blue-plasma.gif"
-    width="200"
-    style="filter: drop-shadow(0 0 32px #00caff); margin: 0 20px;"
-  />
-</p>
-
-<!-- ======= Scrolling Neon Typing ======= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=700&color=00C8FF&center=true&vCenter=true&width=740&lines=Building+Futuristic+Apps+⚡;Designing+Neon+UI+Experiences+💠;AI%2C+Cloud%2C+Full-Stack+Developer" />
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--  💫 HOLOGRAM ABOUT ME  (enhanced)                         -->
-<!-- ========================================================= -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,40:001a33,70:004477,100:00aaff&section=header&text=💫%20About%20Me&fontColor=00dfff&fontSize=28&animation=twinkling&desc=Design-driven%20engineering%20%7C%20Neon%20UI%20%7C%20AI%20%2B%20Cloud&descSize=16&descAlignY=75" 
-    width="100%" 
-  />
-</p>
-
-<p align="center">
-  Passionate about crafting <strong>efficient, scalable</strong> software with modern web tech, robust databases, and open-source collaboration.<br>
-  Integrated MCA student at <strong>Amal Jyothi College of Engineering</strong> — forever learning, building, innovating.<br><br>
-
-  💡 &nbsp; <strong>Focus:</strong> Full-Stack • AI / ML • Cloud & DevOps<br>
-  🌐 &nbsp; <strong>Communities:</strong> µLearn | Hacktoberfest | Google Solution Challenge | SIH | I2U<br>
-  🧠 &nbsp; <strong>Stack in progress:</strong> React, Node.js, Python, Next.js, Tailwind, Firebase, AWS<br>
-  💬 &nbsp; <strong>Ask me about:</strong> Web Dev, Git/GitHub, Open-Source best practices<br>
-  ⚡ &nbsp; <strong>Fun fact:</strong> I light up pixels & communities at the same time — neon vibes only.<br>
-</p>
-
-<!-- ========================================================= -->
-<!--  🛠 HOLOGRAM TECH STACK  (upgraded glow)                 -->
-<!-- ========================================================= -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,40:001a33,70:004477,100:00aaff&section=header&text=🛠%20Tech%20Stack&fontColor=00dfff&fontSize=28&animation=twinkling&desc=Languages%20%7C%20Frameworks%20%7C%20Tooling&descSize=16&descAlignY=75" 
-    width="100%" 
-  />
-</p>
-
 <div align="center">
-  <picture>
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,html,css,sass,tailwind,react,next,nodejs,express,nestjs,fastapi,spring,dotnet,fastify,flask,django,unity,unreal,mongodb,mysql,postgresql,sqlite,firebase,aws,gcp,azure,git,github,gitlab,docker,kubernetes,linux,nginx,vscode,idea,postman,figma&perline=12" 
-         alt="Tech stack icons" 
-         style="max-width: 90%; width: 860px; margin-top: 12px; filter: drop-shadow(0 0 10px #00caff);">
-  </picture>
+
+# GEO GEORGE
+
+### Software Engineer · Web Developer · IoT Developer
+
+**Open Source Coordinator**
+
+Building scalable software, connected IoT systems, and AI-enabled digital products through modern full-stack engineering, cloud platforms, and open-source collaboration.
+
+<br/>
+
+<a href="https://geogeorge.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_SITE-1C1C1C?style=for-the-badge&logo=vercel&logoColor=white" alt="Geo George Official Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/geo-george-883616276">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=white" alt="Geo George LinkedIn Profile" />
+</a>
+<a href="mailto:geogeorge24680@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-1C1C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Geo George" />
+</a>
+
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--  🌙 HOLOGRAM GITHUB STATS                                 -->
-<!-- ========================================================= -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,40:001a33,70:004477,100:00aaff&section=header&text=🌙%20GitHub%20Stats&fontColor=00dfff&fontSize=28&animation=twinkling&desc=Metrics%20from%20the%20grid&descSize=16&descAlignY=75" 
-    width="100%" 
-  />
+## 01 / PROFILE
+
+I'm **Geo George**, a **Software Engineer, Web Developer, IoT Developer, and Open Source Coordinator** focused on building scalable, practical, and user-centered technology solutions.
+
+My work spans **full-stack applications, IoT and embedded systems, real-time dashboards, cloud-integrated platforms, REST APIs, AI-enabled solutions, and open-source engineering**.
+
+I approach projects from both a **software engineering** and **systems perspective**—connecting interfaces, backend services, databases, cloud infrastructure, embedded devices, and real-world workflows.
+
+```text
+ROLE        Software Engineer
+FOCUS       Full-Stack · IoT · Cloud · AI
+COMMUNITY   Open Source Coordination
+EDUCATION   Integrated MCA
+```
+
+---
+
+## 02 / ENGINEERING FOCUS
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Software
+
+Scalable web platforms, APIs, dashboards, and database-driven applications.
+
+`React`
+`Next.js`
+`Node.js`
+`Express.js`
+`MongoDB`
+
+</td>
+<td width="33%" valign="top">
+
+### Connected Systems
+
+Embedded devices, sensors, telemetry, and real-time IoT workflows.
+
+`ESP32`
+`Arduino`
+`Firebase`
+`Sensors`
+`Telemetry`
+
+</td>
+<td width="33%" valign="top">
+
+### Cloud & AI
+
+Cloud-connected applications and intelligent digital systems.
+
+`AWS`
+`Google Cloud`
+`Firebase`
+`Python`
+`AI Systems`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / TECHNOLOGY STACK
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp" alt="Geo George Programming Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geogeorge46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&text_color=00aaff&title_color=00e5ff&icon_color=00aaff" width="90%" />
+### Frontend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind" alt="Geo George Frontend Technology Stack" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorge46&theme=tokyonight&hide_border=true&ring=00aaff&currStreakLabel=00e5ff&fire=00d4ff" width="90%" />
+
+### Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,firebase" alt="Geo George Backend and Database Stack" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geogeorge46&layout=compact&theme=tokyonight&hide_border=true&text_color=00aaff&title_color=00e5ff&bg_color=000000" width="70%" />
+
+### Cloud & Engineering Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,docker,linux,vscode,postman,figma" alt="Geo George Cloud and Developer Tools" />
 </p>
 
 ---
-<!-- ========================================================= -->
-<!--  🚀 HOLOGRAM PROJECTS  (all new)                         -->
-<!-- ========================================================= -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,40:001a33,70:004477,100:00aaff&section=header&text=🚀%20Projects&fontColor=00dfff&fontSize=28&animation=twinkling&desc=Shipped%20code%20%7C%20Open%20source%20%7C%20Hackathons&descSize=16&descAlignY=75" 
-    width="100%" 
-  />
-</p>
+
+## 04 / SELECTED WORK
+
+### NEXUS SMS
+
+**Institutional Student Management System**
+
+A full-stack management platform designed around structured institutional workflows and role-based experiences for administrators, teachers, students, and parents.
+
+```text
+DOMAIN      Education Technology
+FOCUS       Full-Stack Engineering
+SYSTEM      Role-Based Platform
+STACK       MERN · REST APIs · MongoDB
+```
+
+**Selected capabilities**
+
+* Role-based authentication and authorization
+* Student and staff management
+* Attendance and academic workflows
+* Fee and enrollment operations
+* LMS-oriented modules
+* Analytics dashboards
+* Notifications and institutional workflows
+
+---
+
+### GUARDIAN ASSIST
+
+**IoT-Based Smart Assistive Mobility System**
+
+A connected assistive system designed for visually impaired users, combining embedded sensing, emergency detection, cloud telemetry, and real-time remote monitoring.
+
+```text
+DOMAIN      Assistive Technology
+FOCUS       IoT Engineering
+DEVICE      ESP32-Based System
+STACK       ESP32 · Firebase · React · Sensors
+```
+
+**Selected capabilities**
+
+* Multi-level obstacle detection
+* Fall detection using motion sensing
+* Emergency SOS workflows
+* Real-time Firebase telemetry
+* Remote monitoring dashboard
+* Environmental light awareness
+* Connected device heartbeat monitoring
+
+---
+
+### GEAREQUIP
+
+**Machinery Rental Platform**
+
+A digital platform connecting equipment providers and renters through structured inventory, discovery, and booking workflows.
+
+```text
+DOMAIN      Rental Technology
+FOCUS       Full-Stack Development
+SYSTEM      Marketplace Platform
+STACK       PHP · JavaScript · MySQL
+```
+
+**Selected capabilities**
+
+* Equipment inventory management
+* Provider-oriented workflows
+* Search and discovery
+* Rental booking processes
+* Database-driven operations
+
+---
+
+### DOCVAULT
+
+**Digital Document Management Platform**
+
+A web-based solution focused on structured document access and streamlined digital workflows.
+
+```text
+DOMAIN      Document Technology
+FOCUS       Web Engineering
+SYSTEM      Document Platform
+```
+
+---
+
+### PDF EDITOR
+
+**Browser-Based Document Application**
+
+A web application designed to provide accessible PDF-related workflows through a focused browser interface.
+
+```text
+DOMAIN      Productivity
+FOCUS       Frontend Engineering
+SYSTEM      Browser Application
+```
+
+---
+
+## 05 / OPEN SOURCE
+
+I participate in open-source and developer communities through code contributions, documentation, structured technical content, and collaborative engineering initiatives.
+
+```text
+µLEARN
+├── WikiSyllabus contributions
+├── Techmyrmidons contributions
+└── Community collaboration
+
+HACKTOBERFEST
+├── Open-source pull requests
+├── Repository contributions
+└── Collaborative development
+
+INNOVATION
+├── Google Solution Challenge
+├── Smart India Hackathon
+└── Campus technology initiatives
+```
+
+My open-source interests include:
+
+`Developer Communities` · `Documentation` · `Git/GitHub Workflows` · `Collaborative Engineering` · `Knowledge Platforms`
+
+---
+
+## 06 / CURRENT DIRECTION
+
+```text
+SOFTWARE ENGINEERING
+│
+├── Full-Stack Applications
+├── REST API Architecture
+├── Database-Driven Systems
+├── Authentication & Authorization
+└── Scalable Product Engineering
+
+IoT ENGINEERING
+│
+├── ESP32 & Arduino
+├── Sensor Integration
+├── Real-Time Telemetry
+├── Emergency Detection Systems
+└── Cloud-Connected Devices
+
+CLOUD & AI
+│
+├── AWS
+├── Google Cloud
+├── Firebase
+├── AI-Enabled Applications
+└── Connected Digital Platforms
+
+OPEN SOURCE
+│
+├── Git & GitHub
+├── Community Coordination
+├── Collaborative Development
+└── Technical Documentation
+```
+
+---
+
+## 07 / GITHUB ACTIVITY
 
 <div align="center">
 
-  <!-- ─── 1  Gearequip ─── -->
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geogeorge46&repo=gearequip&theme=tokyonight&bg_color=000000&title_color=00e5ff&text_color=00aaff&icon_color=00caff&hide_border=true&show_owner=true" 
-         alt="Gearequip" />
-  </picture>  
-  <br>
-  Machinery-rental platform — internship @ VaultofCodes.  
-  Core rental flows + DB design.  
-  **Stack:** Python • PHP • MySQL • JS  
-  <a href="https://github.com/geogeorge46/gearequip"><img src="https://img.shields.io/badge/View%20Code-00caff?style=flat-square&logo=github&logoColor=white&labelColor=000000" /></a>
-  <a href="https://gearequip-demo.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00caff?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" /></a>
+<img
+src="https://github-readme-stats.vercel.app/api?username=geogeorge46&show_icons=true&hide_border=true&bg_color=FAFAFF&title_color=1C1C1C&text_color=1C1C1C&icon_color=1C1C1C"
+width="49%"
+alt="Geo George GitHub Statistics"
+/>
 
-  <!-- ─── 2  Google Solution Challenge ─── -->
-  <br><br>
-  <picture>
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,100:001a33&section=header&text=Google%20Solution%20Challenge&fontColor=00dfff&fontSize=22&animation=twinkling" width="420"/>
-  </picture>  
-  <br>
-  AI-powered innovation project — led the team.  
-  **Stack:** AI • Python • Cloud  
-  <a href="#"><img src="https://img.shields.io/badge/Details-00caff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=000000" /></a>
-
-  <!-- ─── 3  Smart India Hackathon 2025 ─── -->
-  <br><br>
-  <picture>
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,100:001a33&section=header&text=Smart%20India%20Hackathon%202025&fontColor=00dfff&fontSize=22&animation=twinkling" width="420"/>
-  </picture>  
-  <br>
-  Institution prototype — systems integration + live demo.  
-  **Stack:** IoT • Web • Python  
-  <a href="#"><img src="https://img.shields.io/badge/Details-00caff?style=flat-square&logo=hackathon&logoColor=white&labelColor=000000" /></a>
-
-  <!-- ─── 4  I2U Innovation Project ─── -->
-  <br><br>
-  <picture>
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,100:001a33&section=header&text=I2U%20Innovation%20Project&fontColor=00dfff&fontSize=22&animation=twinkling" width="420"/>
-  </picture>  
-  <br>
-  Campus platform connecting students & mentors.  
-  **Stack:** React • Node.js  
-  <a href="#"><img src="https://img.shields.io/badge/Details-00caff?style=flat-square&logo=react&logoColor=white&labelColor=000000" /></a>
-
-  <!-- ─── 5  WikiSyllabus Challenge ─── -->
-  <br><br>
-  <picture>
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,100:001a33&section=header&text=WikiSyllabus%20Challenge&fontColor=00dfff&fontSize=22&animation=twinkling" width="420"/>
-  </picture>  
-  <br>
-  Open-source contribution to µLearn — syllabus sync + search.  
-  **Stack:** Open Source • GitHub  
-  <a href="https://github.com/µLearn-org/WikiSyllabus"><img src="https://img.shields.io/badge/Repo-00caff?style=flat-square&logo=github&logoColor=white&labelColor=000000" /></a>
-
-  <!-- ─── 6  Techmyrmidons Challenge ─── -->
-  <br><br>
-  <picture>
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,100:001a33&section=header&text=Techmyrmidons%20Challenge&fontColor=00dfff&fontSize=22&animation=twinkling" width="420"/>
-  </picture>  
-  <br>
-  Another µLearn open-source sprint — syllabus improvements.  
-  **Stack:** Open Source • GitHub  
-  <a href="https://github.com/µLearn-org/Techmyrmidons"><img src="https://img.shields.io/badge/Repo-00caff?style=flat-square&logo=github&logoColor=white&labelColor=000000" /></a>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=geogeorge46&layout=compact&hide_border=true&bg_color=FAFAFF&title_color=1C1C1C&text_color=1C1C1C"
+width="37%"
+alt="Geo George Most Used Programming Languages"
+/>
 
 </div>
----
 
-<!-- ========================================================= -->
-<!--  🌐 HOLOGRAM CONNECT                                      -->
-<!-- ========================================================= -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,40:001a33,70:004477,100:00aaff&section=header&text=🌐%20Connect&fontColor=00dfff&fontSize=28&animation=twinkling&desc=Let%E2%80%99s%20sync%20on%20the%20grid&descSize=16&descAlignY=75" 
-    width="100%" 
-  />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/geogeorge46"><img src="https://skillicons.dev/icons?i=github" height="36"></a>
-  <a href="https://www.linkedin.com/in/geo-george-883616276"><img src="https://skillicons.dev/icons?i=linkedin" height="36"></a>
-  <a href="mailto:geogeorge24680@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"></a>
-  <a href="https://www.instagram.com/g_eo.g_eorge/"><img src="https://skillicons.dev/icons?i=instagram" height="36"></a>
-</p>
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorge46&hide_border=true&background=FAFAFF&ring=1C1C1C&fire=1C1C1C&currStreakLabel=1C1C1C"
+width="70%"
+alt="Geo George GitHub Contribution Activity"
+/>
+
+</div>
 
 ---
 
-<!-- ========== MATCHED FOOTER ========== -->
-<!-- ========== BLUE-ENDS-RIGHT FOOTER ========== -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:00aaff,30:004477,60:001a33,100:000000&section=footer&text=Thanks+for+visiting!&fontColor=00dfff&fontSize=32&animation=twinkling" 
-    width="100%" 
-  />
-</p>
+## 08 / CONNECT
+
+Open to conversations around **Software Engineering, Full-Stack Development, IoT Systems, AI-enabled products, Cloud Engineering, Open Source, internships, and collaborative projects**.
+
+<div align="center">
+
+<a href="https://geogeorge.vercel.app">
+  <img src="https://img.shields.io/badge/OFFICIAL_PORTFOLIO-geogeorge.vercel.app-1C1C1C?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Geo George Official Portfolio" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/geogeorge46">
+  <img src="https://img.shields.io/badge/GitHub-geogeorge46-1C1C1C?style=flat-square&logo=github&logoColor=white" alt="Geo George GitHub Profile" />
+</a>
+<a href="https://www.linkedin.com/in/geo-george-883616276">
+  <img src="https://img.shields.io/badge/LinkedIn-Geo_George-1C1C1C?style=flat-square&logo=linkedin&logoColor=white" alt="Geo George LinkedIn Profile" />
+</a>
+<a href="mailto:geogeorge24680@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-1C1C1C?style=flat-square&logo=gmail&logoColor=white" alt="Contact Geo George by Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# GEO GEORGE
+
+**Software Engineer · Web Developer · IoT Developer · Open Source Coordinator**
+
+Engineering scalable software, connected systems, and open-source solutions.
+
+### [geogeorge.vercel.app](https://geogeorge.vercel.app)
+
+</div>
