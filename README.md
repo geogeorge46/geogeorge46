@@ -13,7 +13,7 @@ Building scalable software, connected IoT systems, and AI-enabled digital produc
 <a href="https://geogeorge.vercel.app">
   <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_SITE-1C1C1C?style=for-the-badge&logo=vercel&logoColor=white" alt="Geo George Official Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/geo-george-883616276">
+<a href="https://www.linkedin.com/in/geo-george-dev/">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=white" alt="Geo George LinkedIn Profile" />
 </a>
 <a href="mailto:geogeorge24680@gmail.com">
@@ -379,7 +379,7 @@ Open to conversations around **Software Engineering, Full-Stack Development, IoT
 <a href="https://github.com/geogeorge46">
   <img src="https://img.shields.io/badge/GitHub-geogeorge46-1C1C1C?style=flat-square&logo=github&logoColor=white" alt="Geo George GitHub Profile" />
 </a>
-<a href="https://www.linkedin.com/in/geo-george-883616276">
+<a href="https://www.linkedin.com/in/geo-george-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-Geo_George-1C1C1C?style=flat-square&logo=linkedin&logoColor=white" alt="Geo George LinkedIn Profile" />
 </a>
 <a href="mailto:geogeorge24680@gmail.com">
