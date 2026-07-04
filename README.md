@@ -39,6 +39,12 @@ COMMUNITY   Open Source Coordination
 EDUCATION   Integrated MCA
 ```
 
+<p>
+  <a href="https://geogeorge.vercel.app/about">
+    <img src="https://img.shields.io/badge/ABOUT_GEO_GEORGE-READ_MORE-1C1C1C?style=flat-square&logo=vercel&logoColor=white" alt="About Geo George Software Engineer" />
+  </a>
+</p>
+
 ---
 
 ## 02 / ENGINEERING FOCUS
@@ -47,11 +53,11 @@ EDUCATION   Integrated MCA
 <tr>
 <td width="33%" valign="top">
 
-### Software
+### Software Engineering
 
 Scalable web platforms, APIs, dashboards, and database-driven applications.
 
-`React`
+`React.js`
 `Next.js`
 `Node.js`
 `Express.js`
@@ -60,9 +66,9 @@ Scalable web platforms, APIs, dashboards, and database-driven applications.
 </td>
 <td width="33%" valign="top">
 
-### Connected Systems
+### IoT Engineering
 
-Embedded devices, sensors, telemetry, and real-time IoT workflows.
+Embedded devices, sensors, telemetry, and real-time connected workflows.
 
 `ESP32`
 `Arduino`
@@ -94,13 +100,13 @@ Cloud-connected applications and intelligent digital systems.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp" alt="Geo George Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp" alt="Geo George Programming Languages JavaScript TypeScript Python Java C C++" />
 </p>
 
 ### Frontend Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind" alt="Geo George Frontend Technology Stack" />
+  <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind" alt="Geo George Frontend Stack React Next.js HTML CSS Tailwind CSS" />
 </p>
 
 ### Backend & Data
@@ -142,6 +148,15 @@ STACK       MERN · REST APIs · MongoDB
 * Analytics dashboards
 * Notifications and institutional workflows
 
+<p>
+  <a href="https://nexus-sms-five.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-VIEW_PROJECT-1C1C1C?style=for-the-badge&logo=vercel&logoColor=white" alt="View Nexus SMS Live Demo" />
+  </a>
+  <a href="https://github.com/geogeorge46/nexusSMS">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-GITHUB-1C1C1C?style=for-the-badge&logo=github&logoColor=white" alt="View Nexus SMS Source Code" />
+  </a>
+</p>
+
 ---
 
 ### GUARDIAN ASSIST
@@ -167,13 +182,19 @@ STACK       ESP32 · Firebase · React · Sensors
 * Environmental light awareness
 * Connected device heartbeat monitoring
 
+<p>
+  <a href="https://geogeorge.vercel.app/projects">
+    <img src="https://img.shields.io/badge/PROJECT_DETAILS-PORTFOLIO-1C1C1C?style=for-the-badge&logo=vercel&logoColor=white" alt="View Guardian Assist Project by Geo George" />
+  </a>
+</p>
+
 ---
 
 ### GEAREQUIP
 
 **Machinery Rental Platform**
 
-A digital platform connecting equipment providers and renters through structured inventory, discovery, and booking workflows.
+A digital platform connecting equipment providers and renters through structured inventory, equipment discovery, booking workflows, and database-driven rental operations.
 
 ```text
 DOMAIN      Rental Technology
@@ -196,7 +217,7 @@ STACK       PHP · JavaScript · MySQL
 
 **Digital Document Management Platform**
 
-A web-based solution focused on structured document access and streamlined digital workflows.
+A web-based solution focused on structured document access, usability, and streamlined digital document workflows.
 
 ```text
 DOMAIN      Document Technology
@@ -204,13 +225,19 @@ FOCUS       Web Engineering
 SYSTEM      Document Platform
 ```
 
+<p>
+  <a href="https://doczvalut.netlify.app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-VIEW_PROJECT-1C1C1C?style=for-the-badge&logo=netlify&logoColor=white" alt="View DocVault Live Demo" />
+  </a>
+</p>
+
 ---
 
 ### PDF EDITOR
 
-**Browser-Based Document Application**
+**Browser-Based PDF Application**
 
-A web application designed to provide accessible PDF-related workflows through a focused browser interface.
+A browser-based application designed to make PDF-related workflows more accessible through a focused and intuitive interface.
 
 ```text
 DOMAIN      Productivity
@@ -218,9 +245,30 @@ FOCUS       Frontend Engineering
 SYSTEM      Browser Application
 ```
 
+<p>
+  <a href="https://pdfeditor-rosy.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-VIEW_PROJECT-1C1C1C?style=for-the-badge&logo=vercel&logoColor=white" alt="View PDF Editor Live Demo" />
+  </a>
+  <a href="https://github.com/geogeorge46/pdfeditor">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-GITHUB-1C1C1C?style=for-the-badge&logo=github&logoColor=white" alt="View PDF Editor Source Code" />
+  </a>
+</p>
+
 ---
 
-## 05 / OPEN SOURCE
+### EXPLORE ALL PROJECTS
+
+View additional software engineering, web development, IoT, AI, and cloud projects through my official portfolio.
+
+<p>
+  <a href="https://geogeorge.vercel.app/projects">
+    <img src="https://img.shields.io/badge/ALL_PROJECTS-EXPLORE_PORTFOLIO-1C1C1C?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Geo George Software Projects" />
+  </a>
+</p>
+
+---
+
+## 05 / OPEN SOURCE & COMMUNITY
 
 I participate in open-source and developer communities through code contributions, documentation, structured technical content, and collaborative engineering initiatives.
 
@@ -241,9 +289,9 @@ INNOVATION
 └── Campus technology initiatives
 ```
 
-My open-source interests include:
+**Community & engineering interests**
 
-`Developer Communities` · `Documentation` · `Git/GitHub Workflows` · `Collaborative Engineering` · `Knowledge Platforms`
+`Open Source` · `Developer Communities` · `Git/GitHub Workflows` · `Collaborative Engineering` · `Technical Documentation`
 
 ---
 
@@ -350,6 +398,8 @@ Open to conversations around **Software Engineering, Full-Stack Development, IoT
 
 Engineering scalable software, connected systems, and open-source solutions.
 
-### [geogeorge.vercel.app](https://geogeorge.vercel.app)
+### Official Portfolio
+
+**https://geogeorge.vercel.app**
 
 </div>
